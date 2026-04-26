@@ -11,16 +11,16 @@ Currently the only way to install DebugUI is through the releases tab on the Git
 - Head over to [DebugUI's releases page](https://github.com/mattomatics2/DebugUI/releases).
 - Click the `Assets` dropdown to view the downloadable files.
 
-![Assets Dropdown](../installation/githubdownload.png)
+![Assets Dropdown](/installation/githubdownload.png)
 
 - Click on the `DebugUI.rbxm` file to download it.
 
-![RBXM Download](../installation/githubdownload2.png)
+![RBXM Download](/installation/githubdownload2.png)
 
 - Open Roblox Studio to import the model.
 - Right click on `ServerScriptService`, hover over `Insert`, and click `Import Roblox Model`.
 
-![Model Import](../installation/modelimport.png)
+![Model Import](/installation/modelimport.png)
 
 - In your file explorer, select the `DebugUI.rbxm` file you just downloaded from Github.
 - You should see a new module under `ServerScriptService` named `DebugUI`.
@@ -35,4 +35,4 @@ I recommend putting the `DebugUI` module you just inserted into a new folder cal
 ### Final Layout
 By the time you're finished, your explorer should look like this:
 
-![Final Layout](../installation/finalexplorer.png)
+![Final Layout](/installation/finalexplorer.png)

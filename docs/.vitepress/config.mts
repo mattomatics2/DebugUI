@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "DebugUI",
   description: "Debug panels made easy.",
+  base: "/repo/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
